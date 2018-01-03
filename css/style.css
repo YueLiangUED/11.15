@@ -102,13 +102,13 @@ footer section:nth-child(2) ul li p:nth-child(1) span:nth-child(2){
     font-size: .24rem;
     color: #333333;
 }
-footer section:nth-child(2) ul li p:nth-child(2){
+footer section:nth-child(2) ul li p:nth-child(2),footer section:nth-child(2) ul li p:nth-child(3){
     padding: 0 .24rem;
     font-size: .22rem;
     text-align: justify;
     color: #666666;
 }
-footer section:nth-child(2) ul li p:nth-child(2):first-line{
+footer section:nth-child(2) ul li p:nth-child(2){
     color: #86262b;
 }
 
